@@ -1,0 +1,24 @@
+React
+83 https://www.youtube.com/playlist?list=PL_-VfJajZj0UXjlKfBwFX73usByw3Ph9Q
+51 https://www.youtube.com/playlist?list=PLncHg6Kn2JT4C0enPGQPK7ZIlEoZ1ZvRy
+55 https://www.youtube.com/playlist?list=PLd8OdiciAE1REwyIQ1dNwzB5R_ateRwrA
+22 https://www.youtube.com/playlist?list=PL8y3hWbcppt2pjoLU5pllRIAyhi67pgfK
+
+
+TypeScript
+https://www.youtube.com/watch?v=8Fy_3TEh5_0
+41 https://www.youtube.com/playlist?list=PLncHg6Kn2JT5emvXmG6kgeGkrQjRqxsb4
+17 https://www.youtube.com/playlist?list=PLeS7aZkL6GOtUGTQ81kfm3iGlRTycKjrZ
+19 https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-vTdKt2QdlCqoIKEFrWHx9l
+39 https://www.youtube.com/playlist?list=PLv6GftO355AsQtYp_YrsqEihOCiNlZkCb
+
+Redux
+https://www.youtube.com/watch?v=g_K1w8e0lLo
+https://www.youtube.com/watch?v=zrs7u6bdbUw&t=302s
+23 https://www.youtube.com/playlist?list=PLeS7aZkL6GOvCz3GiOtvtDXChJRuebb7S
+18 https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tmotihDcWZN0LvtXFyxmRZ
+46 https://www.youtube.com/playlist?list=PLeS7aZkL6GOuyJkqg5mXvU2WoKCv6zDBL
+
+Full
+23 https://www.youtube.com/playlist?list=PLRhlTlpDUWszyvcZatbnMIAVDBmLr_7kc
+161 https://www.youtube.com/playlist?list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp
